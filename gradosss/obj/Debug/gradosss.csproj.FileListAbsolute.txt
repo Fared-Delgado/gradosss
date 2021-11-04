@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\gradosss\gradosss\bin\Debug\gradosss.exe.config
+C:\Users\Admin\source\repos\gradosss\gradosss\bin\Debug\gradosss.exe
+C:\Users\Admin\source\repos\gradosss\gradosss\bin\Debug\gradosss.pdb
+C:\Users\Admin\source\repos\gradosss\gradosss\obj\Debug\gradosss.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\gradosss\gradosss\obj\Debug\gradosss.Form1.resources
+C:\Users\Admin\source\repos\gradosss\gradosss\obj\Debug\gradosss.Properties.Resources.resources
+C:\Users\Admin\source\repos\gradosss\gradosss\obj\Debug\gradosss.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\gradosss\gradosss\obj\Debug\gradosss.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\gradosss\gradosss\obj\Debug\gradosss.exe
+C:\Users\Admin\source\repos\gradosss\gradosss\obj\Debug\gradosss.pdb
+C:\Users\Juan Delgado\Desktop\gradosss-master\gradosss\bin\Debug\gradosss.exe.config
+C:\Users\Juan Delgado\Desktop\gradosss-master\gradosss\bin\Debug\gradosss.exe
+C:\Users\Juan Delgado\Desktop\gradosss-master\gradosss\bin\Debug\gradosss.pdb
+C:\Users\Juan Delgado\Desktop\gradosss-master\gradosss\obj\Debug\gradosss.csproj.AssemblyReference.cache
+C:\Users\Juan Delgado\Desktop\gradosss-master\gradosss\obj\Debug\gradosss.Form1.resources
+C:\Users\Juan Delgado\Desktop\gradosss-master\gradosss\obj\Debug\gradosss.Properties.Resources.resources
+C:\Users\Juan Delgado\Desktop\gradosss-master\gradosss\obj\Debug\gradosss.csproj.GenerateResource.cache
+C:\Users\Juan Delgado\Desktop\gradosss-master\gradosss\obj\Debug\gradosss.csproj.CoreCompileInputs.cache
+C:\Users\Juan Delgado\Desktop\gradosss-master\gradosss\obj\Debug\gradosss.exe
+C:\Users\Juan Delgado\Desktop\gradosss-master\gradosss\obj\Debug\gradosss.pdb
